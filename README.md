@@ -15,7 +15,7 @@ This project was developed as an educational implementation of a 10-person face-
 - Batch evaluation on a labelled test folder
 - Overall accuracy and per-person correct/total counts
 - Beginner-friendly code with comments
-- Application Preview ![SIFT Face Recognition Studio](screenshots/application.png)
+- Application Preview ![SIFT Face Recognition Studio](application.png)
 
 ## Dataset Format
 
